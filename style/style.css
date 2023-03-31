@@ -106,8 +106,18 @@ margin-bottom: 30px;
 }
 .about-info-container{
     display: flex;
+    justify-content: space-around;
 }
 .abou.info-title{
 font-size: 20px;
 color: #757575;
+
+}
+.info-title{
+font-size: 20px;
+color: #757575;
+}
+.info-description{
+    font-weight: 700;
+    font-size: 20px;
 }
